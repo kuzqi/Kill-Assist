@@ -1,0 +1,7 @@
+author: kuzqi
+name: KillAssist-Free
+main: me.dev.kuzqi.killassist.Main
+version: '1.0-BETA'
+commands:
+ kareload:
+ kar:

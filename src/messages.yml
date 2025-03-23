@@ -1,0 +1,9 @@
+# ActionBar supported in premium version.
+messages:
+  assist-msg: "&a&l✚ &aKilled &f$victim&a with &b$assist% &aassist and healed &c$hearts❤&a."
+  kill-msg: "&a&l✔ &aYou have killed &f$victim &awith &c$health❤ &aremaining!"
+  death-msg: "&c&l✘ &cYou have been killed by &f$killer&c!"
+
+system:
+  config-reload-msg: "&aPlugin config has been successfully reloaded."
+  no-permission: "&cYou don't have enough permission to do that."
