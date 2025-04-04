@@ -15,7 +15,7 @@ This is the free version of kill assist plugin for minecraft servers.
 
 
 ### 🎫 DISCORD SUPPORT
- - [Support Server](https://discord.gg/3nyXGTue7Z)
+ - [upport Server](https://discord.gg/3nyXGTue7Z)
 
 
 ### 🎬 VIDEOS
