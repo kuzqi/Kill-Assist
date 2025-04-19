@@ -1,4 +1,4 @@
-# Kill Assist (FREE) | 1.0-BET
+# Kill Assist (FREE) | 1.0-BETA
 This is the free version of kill assist plugin for minecraft servers.
   
 ### 🔩 SUPPORTED MINECRAFT VERSIONS 
